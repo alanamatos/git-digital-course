@@ -2,4 +2,6 @@
 
 ## Gravando mudanças no repositório
 
-## Salvando modificações no Git
+## Salvando modificações no Git para aprender comandos: git diff, commit e rm
+
+## Salvando alterações para aprender comandos: git log e restore
